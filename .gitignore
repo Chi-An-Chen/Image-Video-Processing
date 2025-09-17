@@ -1,0 +1,9 @@
+# 忽略 Python 快取
+__pycache__/
+
+# 忽略所有 PPTX 和 PDF
+*.pptx
+*.pdf
+
+# 忽略 macOS 系統檔
+.DS_Store
